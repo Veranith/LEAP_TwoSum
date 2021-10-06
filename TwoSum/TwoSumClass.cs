@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TwoSum
 {
-    public class TwoSum
+    public class TwoSumClass
     {
+        public int[] TwoSum(int[] nums, int target)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
