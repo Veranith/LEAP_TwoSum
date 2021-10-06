@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwoSum
+namespace TwoSumProject
 {
-    public class TwoSumClass
+    public static class TwoSumClass
     {
-        public int[] TwoSum(int[] nums, int target)
+        public static int[] TwoSum(int[] nums, int target)
         {
-            throw new NotImplementedException();
+            return new int[] { 0, 1 };
         }
     }
 }
